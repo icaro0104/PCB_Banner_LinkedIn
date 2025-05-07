@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -73,7 +73,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -838,7 +838,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -849,30 +849,13 @@ GenerateClassCluster=0
 DocumentUniqueId=CWOITVQA
 
 [Document48]
-DocumentPath=HighSideMux.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NHVHUJPS
-
-[Document49]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -882,14 +865,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKESSCUV
 
-[Document50]
+[Document49]
 DocumentPath=Controle.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -899,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LSQQYJMN
 
-[Document51]
+[Document50]
 DocumentPath=..\..\..\..\icaro\Desktop\Libraries\SWD Connector Footprint\Tag-Connect\CHECK CAREFULLY AGAINST TAG-CONNECT SPEC AND USE AT YOUR OWN RISK\Altium\TagConnect_Altium\TagConnect.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTACEYSV
 
-[Document52]
+[Document51]
 DocumentPath=..\..\..\..\icaro\Desktop\Libraries\SWD Connector Footprint\Tag-Connect\CHECK CAREFULLY AGAINST TAG-CONNECT SPEC AND USE AT YOUR OWN RISK\Altium\TC2050-IDC probably better\TC2050-IDC-09Mar2012.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTJFQDTL
 
-[Document53]
+[Document52]
 DocumentPath=..\..\..\..\icaro\Desktop\Libraries\SWD Connector Footprint\Tag-Connect\CHECK CAREFULLY AGAINST TAG-CONNECT SPEC AND USE AT YOUR OWN RISK\Altium\TC2050-IDC probably better\TC2050-IDC-09Mar2012.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document53]
 DocumentPath=TagConnect.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,14 +950,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ISZRSXZQ
 
-[Document55]
+[Document54]
 DocumentPath=PWR_Circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1910,10 +1893,6 @@ L17=WNNNNNNNWNNNWWWWN
 SortOrder=3
 SortLocation=0
 ReplaceSubparts=0
-MatchParameter1=Comment
-MatchStrictly1=1
-MatchParameter2=Library Reference
-MatchStrictly2=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
