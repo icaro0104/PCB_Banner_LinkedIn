@@ -967,6 +967,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ISNLLLJO
 
+[Document55]
+DocumentPath=TicTacToe.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RPFEUONR
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1893,6 +1910,10 @@ L17=WNNNNNNNWNNNWWWWN
 SortOrder=3
 SortLocation=0
 ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
@@ -1913,11 +1934,11 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Any
 ComponentLibraryIdentifier0=
-ComponentDesignItemID0=TMUX1204DGSR
-ComponentSymbolReference0=TMUX1204DGSR
+ComponentDesignItemID0=CL21B104KBCNNND
+ComponentSymbolReference0=CL21B104KBCNNND
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-FullReplace=1
+FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
 PreserveParameterLocations=1
@@ -1957,7 +1978,7 @@ ParameterUpdate11=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=SOP50P490X110-10N
+ModelName0=C0805_HD
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]

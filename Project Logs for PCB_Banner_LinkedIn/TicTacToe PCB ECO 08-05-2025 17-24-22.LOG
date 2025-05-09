@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=Mux13 Member=High Side Green 1:3 Mux/Demux
+Removed Member From Class: ClassName=Mux13 Member=High Side Red 1:3 Mux/Demux
+Removed Member From Class: ClassName=Mux13 Member=Low Side 1:3 Mux/Demux
+Change Component Designator: OldDesignator=IC1_High Side Green 1:3 Mux/Demux NewDesignator=IC1_Green
+Change Component Designator: OldDesignator=IC1_High Side Red 1:3 Mux/Demux NewDesignator=IC1_Red
+Change Component Designator: OldDesignator=IC1_Low Side 1:3 Mux/Demux NewDesignator=IC1_GND
+Change Component Designator: OldDesignator=R2_High Side Green 1:3 Mux/Demux NewDesignator=R2_Green
+Change Component Designator: OldDesignator=R2_High Side Red 1:3 Mux/Demux NewDesignator=R2_Red
+Change Component Designator: OldDesignator=R2_Low Side 1:3 Mux/Demux NewDesignator=R2_GND
+Change Net Name : Old Net Name=NetIC1_High Side Green 1:3 Mux/Demux_5 New Net Name=NetIC1_Green_5
+Change Net Name : Old Net Name=NetIC1_High Side Red 1:3 Mux/Demux_5 New Net Name=NetIC1_Red_5
+Change Net Name : Old Net Name=NetIC1_Low Side 1:3 Mux/Demux_5 New Net Name=NetIC1_GND_5
+Change Net Name : Old Net Name=NetIC1_Low Side 1:3 Mux/Demux_8 New Net Name=NetIC1_GND_8
+Change Net Name : Old Net Name=Out_0_High Side Red 1:3 Mux/Demux New Net Name=Out_0_Red
+Change Net Name : Old Net Name=Out_1_High Side Red 1:3 Mux/Demux New Net Name=Out_1_Red
+Change Net Name : Old Net Name=Out_2_High Side Red 1:3 Mux/Demux New Net Name=Out_2_Red
+Change Net Name : Old Net Name=Sel_0_High Side Green 1:3 Mux/Demux New Net Name=Sel_0_Green
+Change Net Name : Old Net Name=Sel_0_High Side Red 1:3 Mux/Demux New Net Name=Sel_0_Red
+Change Net Name : Old Net Name=Sel_0_Low Side 1:3 Mux/Demux New Net Name=Sel_0_GND
+Change Net Name : Old Net Name=Sel_1_High Side Green 1:3 Mux/Demux New Net Name=Sel_1_Green
+Change Net Name : Old Net Name=Sel_1_High Side Red 1:3 Mux/Demux New Net Name=Sel_1_Red
+Change Net Name : Old Net Name=Sel_1_Low Side 1:3 Mux/Demux New Net Name=Sel_1_GND
+Change Class Name : Old Net Name=High Side Green 1:3 Mux/Demux New Net Name=Green
+Change Class Name : Old Net Name=High Side Red 1:3 Mux/Demux New Net Name=Red
+Change Class Name : Old Net Name=Low Side 1:3 Mux/Demux New Net Name=GND
+Added Member To Class: ClassName=Mux13 Member=GND (Mux13.SchDoc)
+Added Member To Class: ClassName=Mux13 Member=Green (Mux13.SchDoc)
+Added Member To Class: ClassName=Mux13 Member=Red (Mux13.SchDoc)
