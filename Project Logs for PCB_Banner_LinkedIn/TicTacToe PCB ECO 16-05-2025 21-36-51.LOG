@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Ctrl_OK Pin=IC2-11
+Removed Pin From Net: NetName=VCC Pin=R7-1
+Removed Pin From Net: NetName=VCC Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=S2-T2
+Removed Pin From Net: NetName=GND Pin=S4-T2
+Removed Member From Class: ClassName=Controle Member=R7
+Removed Member From Class: ClassName=Controle Member=R9
+Removed Member From Class: ClassName=Controle Member=R10
+Removed Member From Class: ClassName=Controle Member=R12
+Removed Member From Class: ClassName=Controle Member=S2
+Removed Member From Class: ClassName=Controle Member=S4
+Added Pin To Net: NetName=Ctrl_OK Pin=IC2-10
+Change Net Name : Old Net Name=Ctrl_U New Net Name=Ctrl_Next
+Added Pin To Net: NetName=Ctrl_Prev Pin=IC2-11
+Added Pin To Net: NetName=Ctrl_Prev Pin=R13-2
+Added Pin To Net: NetName=Ctrl_Prev Pin=R14-1
+Added Net: Name=Ctrl_Prev
