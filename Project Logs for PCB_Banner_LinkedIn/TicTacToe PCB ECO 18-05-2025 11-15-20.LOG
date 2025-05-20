@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=R1 Old Footprint=R0603_MD New Footprint=R0805_MD
+Change Component Comment : Designator=R1 Old Comment=ERJ-PA3F1000V New Comment=RNCP0805FTD150R
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R0603_MD"; UniqueID = "\IWTWDQPI" ("\IWTWDQPI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.25W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "RNCP0805FTD150RCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150R"; VariantName = "[No Variations]"
